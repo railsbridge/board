@@ -6,9 +6,11 @@ This is where the RailsBridge board will be tracking its various projects!
 
 The full RailsBridge Board will have representation from a variety of chapters. These three people are the current interim board:
 
-* [Lillie Chilen](https://github.com/lilliealbert)
-* [Sarah Mei](https://github.com/sarahmei)
-* [Rachel Myers](https://github.com/rachelmyers)
+* [Ana Castro](https://twitter.com/anymoto)
+* [Lillie Chilen](http://www.lilliechilen.com)
+* [Sarah Mei](https://twitter.com/sarahmei)
+* [Rachel Myers](https://twitter.com/rachelmyers)
+* [Bianca Rodrigues](https://www.linkedin.com/in/biancarodrigues)
 
 ### What is this for? 
 
@@ -35,15 +37,14 @@ To help RailsBridge grow geographically and organizationally by creating structu
 * Serve on the board for a 2 year term
 * Attend monthly board meetings 
 * Serve on at least one RailsBridge team or committee (i.e. finance, communications, geographic expansion, operations)
-* Board members should expect to do 15-20 hours of RailsBridge work per month, depending on the board member’s responsibilities
+* Board members should expect to do 10-15 hours of RailsBridge work per month, depending on the board member’s responsibilities
 * Recruit new committee and board members
-* Attend two RailsBridge workshops per year
+* Attend two RailsBridge workshops per year to stay connected to the RailsBridge community
 
 ## Board Communications
 
 Any member of the RailsBridge community can get in touch with the board privately by emailing board@railsbridge.org or publicly by creating an issue on the Board GitHub repo: https://github.com/railsbridge/board.
 
-The board will also hold quarterly open online meetings to gather feedback and ideas from the larger RailsBridge community.
 
 ## Procedures
 
@@ -77,5 +78,5 @@ When there are unplanned vacancies, the Board will either fill the position perm
 
 ## How the board makes decisions
 
-The board will vote on decisions and needs a ⅔ majority to make changes to this charter or other policy changes. For major decisions, it will also consult with the RailsBridge Advisory Board.
+The board will vote on decisions and needs a majority to make changes to this charter or other policy changes. For major decisions, it will also consult with the RailsBridge Advisory Board.
 
