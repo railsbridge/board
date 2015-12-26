@@ -4,7 +4,7 @@ This is where the RailsBridge board will be tracking its various projects!
 
 ### Who is the board?
 
-The full RailsBridge Board will have representation from a variety of chapters. These three people are the current interim board:
+The full RailsBridge Board will have representation from a variety of chapters. These five people are the current interim board:
 
 * [Ana Castro](https://twitter.com/anymoto)
 * [Lillie Chilen](http://www.lilliechilen.com)
