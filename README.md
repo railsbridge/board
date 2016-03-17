@@ -34,9 +34,10 @@ To help RailsBridge grow geographically and organizationally by creating structu
 ## Responsibilities of Board Members
 
 * Serve on the board for a 2 year term
-* Attend monthly board meetings 
+* Attend monthly board meetings
+  * Board members need to attend 3/4 of the board meetings to remain on the board. Attendance will be reviewed on a quarterly basis.
 * Serve on at least one RailsBridge team or committee (i.e. finance, communications, geographic expansion, operations)
-* Board members should expect to do 10-15 hours of RailsBridge work per month, depending on the board member’s responsibilities
+* Board members should expect to do about 10 hours of RailsBridge work per month, depending on the board member’s responsibilities
 * Recruit new committee and board members
 * Attend two RailsBridge workshops per year to stay connected to the RailsBridge community
 
