@@ -4,12 +4,15 @@ This is where the RailsBridge board will be tracking its various projects!
 
 ### Who is the board?
 
-The full RailsBridge Board will have representation from a variety of chapters. These five people are the current board:
+The full RailsBridge Board will have representation from a variety of chapters. These people are the current board:
 
 * [Lillie Chilen](http://www.lilliechilen.com)
 * [Sarah Mei](https://twitter.com/sarahmei)
 * [Rachel Myers](https://twitter.com/rachelmyers)
 * [Bianca Rodrigues](https://www.linkedin.com/in/biancarodrigues)
+* [Coraline Ada Ehmke](http://where.coraline.codes)
+* [Kari Bancroft](https://github.com/kariabancroft)
+* [Anna Neyzberg](https://github.com/aneyzberg)
 
 ### What is this for? 
 
