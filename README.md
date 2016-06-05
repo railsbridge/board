@@ -4,7 +4,7 @@ This is where the RailsBridge board will be tracking its various projects!
 
 ### Who is the board?
 
-The full RailsBridge Board will have representation from a variety of chapters. These people are the current board:
+These people are the current board:
 
 * [Rachel Myers](https://twitter.com/rachelmyers)
 * [Bianca Rodrigues](https://www.linkedin.com/in/biancarodrigues)
