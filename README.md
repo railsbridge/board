@@ -6,11 +6,9 @@ This is where the RailsBridge board will be tracking its various projects!
 
 These people are the current board:
 
-* [Rachel Myers](https://twitter.com/rachelmyers)
-* [Bianca Rodrigues](https://www.linkedin.com/in/biancarodrigues)
-* [Coraline Ada Ehmke](http://where.coraline.codes)
 * [Kari Bancroft](https://github.com/kariabancroft)
 * [Anna Neyzberg](https://github.com/aneyzberg)
+* [Melissa Xie](https://github.com/mxie)
 
 ### What is this for? 
 
